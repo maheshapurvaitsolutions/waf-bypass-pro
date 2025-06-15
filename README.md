@@ -60,6 +60,7 @@ A comprehensive and advanced Web Application Firewall (WAF) bypass testing tool 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/maheshapurvaitsolutions/waf-bypass-pro.git
+   tar -xvzf waf-bypass-pro.tar.gz
    cd waf-bypass-pro
    ```
 
